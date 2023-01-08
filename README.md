@@ -57,4 +57,4 @@ npm i
 
 
 ### :octocat: Note:
-I haven't made the website. The code was given to me during the Web_development course. This repo is for my future reference. 
+I haven't made the website. The code was given to me during the Web_development course. This repo is for my future reference. Spectial thanks to @angelabauer
