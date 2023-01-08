@@ -23,15 +23,15 @@ Run the commands from below in your vs-code project folder terminal.
 ```
 
 ## :octocat: Cloning this repo:
-- [x] Run the following command:
+<b>- [x] Run the following command:</b>
 ```bash 
 git clone 'https://github.com/yashdoshi12/Blog_Website_Without_Database.git' 
 ```
-- [x] `cd` to the cloned folder:
+<b>- [x] `cd` to the cloned folder:</b>
 ```bash 
 cd Blog_Website_Without_Database
 ```
-- [x] Install required `npm` pakages 
+<b>- [x] Install required `npm` pakages </b>
 ```bash 
 npm i
 ```
