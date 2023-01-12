@@ -58,3 +58,7 @@ npm i
 ### :octocat: Note:
 I haven't made the website. The code was given to me during the Web_development course. This repo is for my future reference. 
 Special thanks to [@angelabauer](https://github.com/angelabauer)
+<hr />
+<br />
+
+<div align="center">Don't forget to leave a star ⭐️</div>
