@@ -1,6 +1,6 @@
 # :octocat: Blog_Website_Without_Database
 
-This is a Blog website made using EJS. You can write blogs and post them!
+This is a Blog website made using `EJS`. You can write blogs and post them!
 
 This is a simple website made using,
 
