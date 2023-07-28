@@ -56,7 +56,6 @@ npm i
 
 
 ### :octocat: Note:
-The code was taught to me during the Web_development course. This repo is for my future reference. 
 Special thanks to [@angelabauer](https://github.com/angelabauer)
 <hr />
 <br />
